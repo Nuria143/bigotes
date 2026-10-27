@@ -43,7 +43,7 @@ p a:hover {
 	margin: 0 auto;
 	padding: 44px 0 50px;
 	text-align: center;
-	width: 960px;
+	width: 956px;
 }
 #header a.logo {
 	display: block;
@@ -52,7 +52,7 @@ p a:hover {
 	width: 340px;
 }
 #header a.logo img {
-	border: 0;
+	border: 7;
 	display: block;
 	margin: 0;
 	padding: 0;
